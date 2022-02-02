@@ -1,4 +1,4 @@
-#Alfa compiler
+# Alfa compiler
 
 Simple compiler using C to generate the NASM code for my made up language Alfa.
 
